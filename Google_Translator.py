@@ -1,4 +1,3 @@
-'''My name is Chapi Menge.Am just Programmer'''
 from googletrans import Translator
 from googletrans import Translator
 from telegram.ext import (Updater, CommandHandler, MessageHandler, Filters, RegexHandler,ConversationHandler)
